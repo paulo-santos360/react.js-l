@@ -1,4 +1,4 @@
-# React-Filmes
+# React-Arquivo
  React.Js e Api do TMDB
 
 # Instalar React comando 
